@@ -1,10 +1,10 @@
 # A Beginner's Guide to Reading "Attention Is All You Need"
 
-[English](#a-beginners-guide-to-reading-attention-is-all-you-need) | [简体中文](#-a-beginners-guide-to-reading-attention-is-all-you-need-1)
+[English](#english) | [简体中文](#chinese)
 
 ---
 
-### A Beginner's Guide to Reading "Attention Is All You Need"
+## <a id="english"></a>A Beginner's Guide to Reading "Attention Is All You Need"
 
 #### The Story Behind This Project
 
@@ -38,7 +38,7 @@ This was a learning process for me, so there are bound to be areas for improveme
 ---
 ---
 
-### 一份给初学者的"Attention Is All YouNeed"阅读指南
+## <a id="chinese"></a>一份给初学者的"Attention Is All You Need"阅读指南
 
 #### 创作初衷：一个“私人学习项目”
 
